@@ -9,8 +9,8 @@ I can't remember everything but I think the only part missing from this exercise
 For now there's no validations for inputs so you have to fill every input for the measures, but not for the "Espessura" which is thickness of the brush.
 
 # How-to
--Just fill in the inputs
--Press the Draw {option}
--Be ready to design high quality rooms for your house (not)
-...
--Have fun
+1. Just fill in the inputs
+2. Press the Draw {option}
+3. Be ready to design high quality rooms for your house (not)
+4. ...
+5. Have fun!
