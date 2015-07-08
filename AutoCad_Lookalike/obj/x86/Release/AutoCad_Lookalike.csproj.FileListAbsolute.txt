@@ -1,0 +1,10 @@
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\bin\Release\AutoCad_Lookalike.exe
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\bin\Release\AutoCad_Lookalike.pdb
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Release\AutoCad_Lookalike.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Release\AutoCad_Lookalike.Form1.resources
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Release\AutoCad_Lookalike.Properties.Resources.resources
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Release\AutoCad_Lookalike.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Release\AutoCad_Lookalike.exe
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Release\AutoCad_Lookalike.pdb
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\CET - PAW\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Release\AutoCad_Lookalike.exe
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\CET - PAW\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Release\AutoCad_Lookalike.pdb

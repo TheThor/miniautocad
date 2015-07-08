@@ -1,0 +1,25 @@
+c:\users\shc\documents\visual studio 2010\Projects\AutoCad_Lookalike\AutoCad_Lookalike\bin\Debug\AutoCad_Lookalike.exe
+c:\users\shc\documents\visual studio 2010\Projects\AutoCad_Lookalike\AutoCad_Lookalike\bin\Debug\AutoCad_Lookalike.pdb
+c:\users\shc\documents\visual studio 2010\Projects\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shc\documents\visual studio 2010\Projects\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.Form1.resources
+c:\users\shc\documents\visual studio 2010\Projects\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.Properties.Resources.resources
+c:\users\shc\documents\visual studio 2010\Projects\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\shc\documents\visual studio 2010\Projects\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\shc\documents\visual studio 2010\Projects\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.exe
+c:\users\shc\documents\visual studio 2010\Projects\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.pdb
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.exe
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.pdb
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.Form1.resources
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.Properties.Resources.resources
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\bin\Debug\AutoCad_Lookalike.exe
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\bin\Debug\AutoCad_Lookalike.pdb
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\CET - PAW\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.exe
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\CET - PAW\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.pdb
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\CET - PAW\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\bin\Debug\AutoCad_Lookalike.exe
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\CET - PAW\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\bin\Debug\AutoCad_Lookalike.pdb
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\CET - PAW\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\CET - PAW\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.Form1.resources
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\CET - PAW\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.Properties.Resources.resources
+C:\Users\Pedro\Documents\Google Drive\Faculdade UFP\CET - PAW\2 Semestre\Tecnicas avancadas de programacao para web\Projectos\AutoCad_Lookalike\AutoCad_Lookalike\obj\x86\Debug\AutoCad_Lookalike.csproj.GenerateResource.Cache
